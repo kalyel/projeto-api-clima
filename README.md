@@ -1,6 +1,6 @@
 <h1>Projeto Clima</h1>
 <p>Projeto realizado no evento online, Black em Dobro, do canal Dev em Dobro feito com fins de estudar programação. <br>
-O projeto mostra o clima na cidade que o usuario pesquisar,consumindo uma API de clima, a Weather API.<br>
+O projeto mostra o clima na cidade que o usuário pesquisar, consumindo uma API de clima, a Weather API.<br>
 </p>
 <p>A busca da cidade é feita através de uma barra de pesquisa, na qual o usuário irá digitar o nome da cidade que ele deseja ver o clima e,
   em seguida, apertar o botão de lupa na lateral para, por fim, mostrar o clima na cidade desejada, incluindo temperatura, condição do clima, umidade e velocidade do vento.</p>
